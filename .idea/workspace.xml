@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f90ad8-ef6a-43e2-9b89-4adf27368fa5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/io/cadi/douakpo/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/io/cadi/douakpo/MainActivity.java" />
-    </list>
+    <list default="true" id="03f90ad8-ef6a-43e2-9b89-4adf27368fa5" name="Default" comment="" />
     <ignored path="Douakpo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
